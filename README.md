@@ -28,3 +28,17 @@ During Week 2, we will learn about matplotlib and seaborn which are python libra
 * [Seaborn Tutorial](https://youtu.be/6GUZXDef2U0?feature=shared) <br/>
 
 Please code side by side on your notebooks parallely while going through the tutorials. You can use Google Colab, Jupyter Notebook.
+
+## Week 3
+
+### Aim
+In this week, we will learn basic financial terms like Moving Average, Daily Returns and correlation between different stocks.
+### Important Links
+* [Moving Average](https://www.investopedia.com/terms/m/movingaverage.asp) <br/>
+* [Daily Return of a Stock](https://www.wikihow.com/Calculate-Daily-Return-of-a-Stock) <br/>
+* [How to Calculate Stock Correlation Coefficient](https://www.wikihow.com/Calculate-Stock-Correlation-Coefficient) <br/>
+* [How to create a stock correlation matrix in python](https://medium.com/analytics-vidhya/how-to-create-a-stock-correlation-matrix-in-python-4f32f8cb5b50) <br/>
+
+For those who prefer videos
+* [Covariance and Correlation Matrix of stock returns with Python](https://youtu.be/t2Zh-qnFa40?si=yrHM3a0eLD1ZTWyo) <br/> 
+* [Please refer the research paper to get idea of upcoming weeks content](https://github.com/amitmalakariitb/WIDS-project/blob/main/Predicting%20stock%20market%20index%20using%20LSTM.pdf) <br/>
