@@ -51,6 +51,6 @@ In this week, we'll read up on RNNs and LSTM which will help us predict the futu
 * [RNN](https://www.simplilearn.com/tutorials/deep-learning-tutorial/rnn) <br/>
 * [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) <br/>
 
-These will much of the theory you need to understand for LSTM, but we encourage you to look up how LSTM is implemented in code using scikit-learn.
+These will cover much of the theory you need to understand for LSTM, but we encourage you to look up how LSTM is implemented in code using scikit-learn.
 
 The final assignment will be released soon.
