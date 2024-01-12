@@ -42,3 +42,15 @@ In this week, we will learn basic financial terms like Moving Average, Daily Ret
 For those who prefer videos
 * [Covariance and Correlation Matrix of stock returns with Python](https://youtu.be/t2Zh-qnFa40?si=yrHM3a0eLD1ZTWyo) <br/> 
 * [Please refer the research paper to get idea of upcoming weeks content](https://github.com/amitmalakariitb/WIDS-project/blob/main/Predicting%20stock%20market%20index%20using%20LSTM.pdf) <br/>
+
+## Week 4
+
+### Aim
+In this week, we'll read up on RNNs and LSTM which will help us predict the future stock prices.
+### Important Links
+* [RNN](https://www.simplilearn.com/tutorials/deep-learning-tutorial/rnn) <br/>
+* [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) <br/>
+
+These will cover much of the theory you need to understand for LSTM, but we encourage you to look up how LSTM is implemented in code using scikit-learn.
+
+The final assignment will be released soon.
